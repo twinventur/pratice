@@ -73,8 +73,12 @@ Text 2 | Party 2| Sand 2
 ## Code
 
 `printf("Variavel = ", a); `
-```
+```HTML
 <head>
   <p>Amarelo</p>
 </head>
 ```
+
+## Blockquotes
+
+>My mom said im pretty
